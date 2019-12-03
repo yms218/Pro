@@ -5,8 +5,14 @@
 각 주차마다 해당하는 문제 폴더들이 있다. 문제를 풀고 알고리즘이나 자료구조와 본인의 이름을 붙여 git에 push하면 된다.
 ex) 1주차)Hash_Jiyoung.cpp, 2주차)Hash_unionfind_Jiyoung.cpp
 
-# 기초 지식
+# 기본으로 구현할줄 알아야 되는 자료구조
 시험보면서 필요한 최소한의 기초 지식은 다음과 같다.
-1. stack
-2. queue
-3. sort(quick, merge, heap)
+1. 스택
+2. 큐
+3. 소트(quick, merge, heap)
+4. 트라이
+5. 유니온파인드
+6. 이분탐색
+
+# 핵심
+*해시
