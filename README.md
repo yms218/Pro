@@ -7,7 +7,6 @@ ex) 1주차)Hash_Jiyoung.cpp, 2주차)Hash_unionfind_Jiyoung.cpp
 
 # 기초 지식
 시험보면서 필요한 최소한의 기초 지식은 다음과 같다.
-● stack
-● queue
-● vector
-● sort
+1. stack
+2. queue
+3. sort(quick, merge, heap)
