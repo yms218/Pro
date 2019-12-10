@@ -30,4 +30,13 @@ PRO형은 자료구조를 복잡하고 많이 쓰는 문제를 직접 만들거�
    3주차) : 엑셀 문제
 
 # 문제 추천
-1) [홍준이의 사전놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&)
+1) [홍준이의 사전놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&) : 해시나 트라이로 풀 수 있으며 B형 문제처럼 구성되있고 STL을 사용하면 제출이 되지 않는다.
+2) [카드 정렬하기](https://www.acmicpc.net/problem/1715) : STL 사용없이 힙을 직접 구현해본다.
+3) [생태학](https://www.acmicpc.net/problem/4358) : 해시나 트라이로 풀 수 있으며 해시로 풀면 정렬까지 해야된다.
+4) [듣보잡](https://www.acmicpc.net/problem/1764) : 해시나 트라이로 푼다.
+5) [블록부품맞추기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4szU-qXKYDFAUf) : C형 예제라 그런지 많이 어렵다. 비트마스크, 큐, 해시 등 다양한 방법으로 풀 수 있으며 해시가 가장 빠르다.
+6) [친구 네트워크](https://www.acmicpc.net/problem/4195) : 해시 + 유니온파인드 응용
+7) [문자열 잘라내기](https://www.acmicpc.net/problem/2866) : 해시 + 이분탐색 응용
+8) [수 찾기](https://www.acmicpc.net/problem/1920) : 해시 or 이분탐색
+9) [회사에 있는 사람](https://www.acmicpc.net/problem/7785) : 해시나 트라이로 푼다.
+10) [(카카오 3차)자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) : 단순 트라이 구현
