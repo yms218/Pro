@@ -30,5 +30,4 @@ PRO형은 자료구조를 복잡하고 많이 쓰는 문제를 직접 만들거�
    3주차) : 엑셀 문제
 
 # 문제 추천
-1) [홍준이의 사전놀이][링크]
-[링크] : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&
+1) [홍준이의 사전놀이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_6pTXqsXUDFAWS&)
